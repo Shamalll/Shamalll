@@ -7,11 +7,11 @@
   
   Hobbies: Photoraphy 📷
   
-  Coding languages: HTML, CSS, JavaScript
+  Coding languages: HTML, CSS, JavaScript, Node.JS
   
   Website & photography portfolio: Work in progress...📸
   
-🌱 I’m currently learning: React.JS, SaSS.
+🌱 I’m currently learning: React.JS, SaSS
 
 
 
